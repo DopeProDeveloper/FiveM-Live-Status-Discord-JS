@@ -1,0 +1,1 @@
+npm install discord.js@v12 axios moment
