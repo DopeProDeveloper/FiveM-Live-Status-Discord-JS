@@ -1,0 +1,14 @@
+{
+    "BOT_TOKEN": "TO TOKEN TOU BOT SOU",
+
+    "LiveStatusConfig": {
+        "ServerIP": "IP:PORT",
+        "GuildID": "TO ID TOU SERVER SOU",
+        "ChannelID": "TO ID TOU KANALIOU POU UES NA EINAI TO LIVE STATUS",
+        "ServerImage": "H EIKONA TOU SERVER SOU",
+        "EmojiStatusON": "TO EMOJI POU UES NA EXEI OTAN EINAI UP",
+        "EmojiStatusOFF": "TO EMOJI POU UES NA EXEI OTAN EINAI DOWN",
+        "ColorStatusON": "TO XRWMA POU UES OTAN EINAI UP PX: RED,BLUE,YELLOW,ORANGE H PSAJE STO GOOGLE color picker tool",
+        "ColorStatusOFF": "TO XRWMA POU UES OTAN EINAI DOWN PX: RED,BLUE,YELLOW,ORANGE H PSAJE STO GOOGLE color picker tool"
+    }
+}
